@@ -1,0 +1,64 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>/</id>
+  <title>Brifter</title>
+  <subtitle>Este es un</subtitle>
+  <updated>2024-04-20T20:48:38-04:00</updated>
+  <author>
+    <name>Brifter</name>
+    <uri>/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="es"
+    href="/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2024 Brifter </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Mustacchio - WriteUp (Easy)</title>
+    <link href="/posts/mustacchio-writeup-easy/" rel="alternate" type="text/html" title="Mustacchio - WriteUp (Easy)" />
+    <published>2024-01-31T22:57:00-03:00</published>
+  
+    <updated>2024-01-31T22:57:00-03:00</updated>
+  
+    <id>/posts/mustacchio-writeup-easy/</id>
+    <content src="/posts/mustacchio-writeup-easy/" />
+    <author>
+      <name>Brifter</name>
+    </author>
+
+  
+    
+    <category term="TryHackMe" />
+    
+    <category term="WriteUp" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Introducción
+
+Les presento esta máquina de la plataforma TryHackMe llamada Mustacchio en las cuales tocamos la vulnerabilidad XXE 
+(XML Entity Injection), enumeracion y escalación de privilegios. Para ponernos en contexto, una vulnerabilidad XXE,
+es una vulnerabilidad de seguridad en la que un atacante puede utilizar una entrada XML maliciosa para acceder a 
+recursos del sistema que normalmente...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
